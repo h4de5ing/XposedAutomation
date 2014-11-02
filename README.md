@@ -9,3 +9,6 @@ Content
 
 - AutomaticXposed: The application implemented to automate all the Xposed related procedures
 - XposedInstaller: The modified [XposedInstaller](https://github.com/rovo89/XposedInstaller)(Added a **InstallService**)
+- 
+-最新相关文章分析
+-http://blog.avlyun.com/1361.html
